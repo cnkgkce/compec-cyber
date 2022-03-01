@@ -29,7 +29,6 @@
 - ### 2.Hafta : Network Saldırıları
     - Protokolleri kısaca inceleyelim.
     - Aktif ve Pasif Tarama nedir ?
-    - Komşu komşunun internetine muhtaçtır :)
     - Wireshark Aracını Tanıyalım ve Kullanalım
     - Ortadaki Adam Saldırısını inceleyelim
     - DNS Saldırılarını inceleyelim
