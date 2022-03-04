@@ -30,6 +30,7 @@
     - Protokolleri kısaca inceleyelim.
     - Aktif ve Pasif Tarama nedir ?
     - Wireshark Aracını Tanıyalım ve Kullanalım
+    - Komşu komşunun internetine muhtaçtır :)
     - Ortadaki Adam Saldırısını inceleyelim
     - DNS Saldırılarını inceleyelim
     - Nmap Aracını Tanıyalım ve Kullanalım
