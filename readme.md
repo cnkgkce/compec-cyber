@@ -1,5 +1,5 @@
 # COMPEC - Uygulamalı Ofansif Güvenlik Eğitimi
-> Cenk Gökçe - PwC Turkey Cybersecurity Specialist 
+> Cenk Gökçe - Developer & Cyber Security 
 > > [LinkedIn](https://www.linkedin.com/in/cenk-gokce-345b88190)  - [Medium](https://cnkgkce.medium.com/)
 
 ## Eğitimin Genel Hedefi:
@@ -41,4 +41,6 @@
     - Modern Web mimarisine giriş
     - Kurumsal web uygulamaları nasıl çalışır ?
     - OWASP TOP 10 Zafiyetlere giriş 
+    - Broken Authentication, Injection, Sensitive Data Exposure, Broken Access Control ve Cross-Site Scripting (XSS) zafiyetlerine giriş
+    -Let's hack : [Bir Hacker'ın Gözünden Modern Web Nasıl Çalışır? - M.Dursun İnce](https://www.youtube.com/watch?v=3AgDSw0I89A&t=6793s)|[Tryhackme Juice Shop Room](https://tryhackme.com/room/owaspjuiceshop) | [DVWA](https://tryhackme.com/room/dvwa) | [Port Swigger Academy](https://portswigger.net/web-security/dashboard)
 
