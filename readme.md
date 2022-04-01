@@ -37,5 +37,8 @@
     - Let's hack : [Network'e giriş](https://tryhackme.com/room/introtonetworking) | [Nmap](https://tryhackme.com/room/furthernmap) | [Network Nedir](https://tryhackme.com/room/whatisnetworking) | [LAN Giriş](https://tryhackme.com/room/introtolan)
 
 
-## 
+- ### 3.Hafta : Web Uygulama Güvenliği
+    - Modern Web mimarisine giriş
+    - Kurumsal web uygulamaları nasıl çalışır ?
+    - OWASP TOP 10 Zafiyetlere giriş 
 
