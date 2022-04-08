@@ -37,7 +37,7 @@
     - Let's hack : [Network'e giriş](https://tryhackme.com/room/introtonetworking) | [Nmap](https://tryhackme.com/room/furthernmap) | [Network Nedir](https://tryhackme.com/room/whatisnetworking) | [LAN Giriş](https://tryhackme.com/room/introtolan)
 
 
-- ### 3.Hafta : Web Uygulama Güvenliği
+- ### 3.Hafta : Web Uygulama Güvenliği I
     - Modern Web mimarisine giriş
     - Kurumsal web uygulamaları nasıl çalışır ?
     - OWASP TOP 10 Zafiyetlere giriş 
@@ -45,3 +45,9 @@
     
     -Let's hack : [Bir Hacker'ın Gözünden Modern Web Nasıl Çalışır? - M.Dursun İnce](https://www.youtube.com/watch?v=3AgDSw0I89A&t=6793s) |[Tryhackme Juice Shop Room](https://tryhackme.com/room/owaspjuiceshop) | [DVWA](https://tryhackme.com/room/dvwa) | [Port Swigger Academy](https://portswigger.net/web-security/dashboard)
 
+- ### 4.Hafta : Web Uygulama Güvenliği II
+    - Cross Site Scripting (XSS) Zafiyetini İnceleme
+    - XML External Entity (XXE) Zafiyetini İnceleme
+    - Business Logic Zafiyetleri İnceleme
+    - File Upload Zafiyetleri İnceleme
+    - Let's hack : [Web Security 101 - M.Dursun İnce](https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT) | [XSS - PortSwigger Academy](https://portswigger.net/web-security/cross-site-scripting) | [XXE - PortSwigger Academy](https://portswigger.net/web-security/xxe) | [Business Logic - PortSwigger Academy](https://portswigger.net/web-security/logic-flaws)
