@@ -6,13 +6,16 @@
 ![ss](ss/wordpress-cross-site-scripting-guide-prevention.png)
 
 ### Zafiyetin Tanımı ve Oluşma Sebebi
-Cross Site Scripting ya da kısaca bilinen adıyla XSS zafiyeti kullanıcının browser'ında script kodu çalıştırabilme temeline dayanmaktadır. Cross site scripting uygulamanın ön yüzünü ilgilendiren ve genellikle sunucu ile herhangi bir ilişiği olmayan bir zafiyettir.
+Cross Site Scripting ya da kısaca bilinen adıyla XSS zafiyeti kullanıcının browser'ında script kodu çalıştırabilme temeline dayanmaktadır. XSS zafiyeti kullanıcıdan alınan ve HTTP Request içerisinde gönderilen datanın güvenilir olmayan bir biçimde geriye dönmesiyle oluşmaktadır. Cross site scripting uygulamanın ön yüzünü ilgilendiren ve genellikle sunucu ile herhangi bir ilişiği olmayan bir zafiyettir.
 
 ***Reflected XSS*** ve ***Stored XSS*** olmak üzere temelde 2 farklı türü bulunmaktadır fakat bunların yanında DOM-based XSS veya Blind XSS gibi türleri ile de zafiyetin çıkış noktasına göre reflected veya stored olarak kategorilendirilebilmektedir. Bu konu hakkında halen net bir görüş bulunmamakta farklı araştırmacılar farklı kategorilendirme işlemleri yapabilmektedirler.
 #### Reflected XSS
 ![ss](ss/reflected.png)
+
 #### Stored XSS
 ![ss](ss/stored.png)
+
+
 Reflected XSS o an gerçekleştirilebilen XSS türü iken Stored XSS veritabanına zararlı xss payload'unun kaydedilmesi ile gerçekleşir.
 
 Bunların dışında çalıştırılan XSS kodunun kullanıcıya gösterilmeden çalıştırıldığı ***Blind XSS*** gibi türleri de bulunmaktadır.
