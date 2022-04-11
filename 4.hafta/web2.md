@@ -23,16 +23,6 @@ Bunların dışında çalıştırılan XSS kodunun kullanıcıya gösterilmeden 
 ### Zafiyetin Etkisi
 XSS Zafiyeti oldukça kritik bir zafiyettir. Bu zafiyet sayesinde saldırganlar kurbanların oturum bilgilerini (session ve cookie)çalabilirler veya kendi yazmış oldukları veya hazırda kullanılan zararlı Javascript kodlarını kullanıcının browserında çalıştırabilirler. Bütün bunların yanında ilgili script ile bilgisayarlarına uzak bir sunucudan zararlı yazılım indirebilirler.
 
-# XML External Entity (XXE)
-![ss](ss/xxe.jpg)
-### Zafiyetin Tanımı ve Oluşma Sebebi
-XML (Extensible Markup Language) uygulama içinde veya uygulamalar arası veri transferinde oldukça sık ve yaygın kullanılan bir dildir. Son dönemlerde geliştirilen web  uygulamalarında veri transferi işlemleri için JSON kullanılsa da XML halen birçok web sitesinin veri transferinde kullanılmaktadır.
-
-XXE zafiyetinin temelde oluşma sebebi XML içerisinde DTD içerisinde External bir Entity oluşturma ve XML Parser'ın bu Entity'i herhangi bir kontrole tabi tutmadan parse etmesidir.
-
-![ss](ss/xxee.png)
-### Zafiyetin Etkisi
-Bu zafiyet sayesinde saldırganlar uygulama üzerinde barınan birtakım önemli dosyaları okuyabilirler veya kendi kontrolleri altında bulunan ve zararlı dosyalar içeren sunucularından kurban bilgisayarlarına zararlı yazılımları indirebilirler.
 
 # File Upload Zafiyetleri
 ![ss](ss/uplaod.png)
