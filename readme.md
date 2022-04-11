@@ -47,7 +47,6 @@
 
 - ### 4.Hafta : Web Uygulama Güvenliği II
     - Cross Site Scripting (XSS) Zafiyetini İnceleme
-    - XML External Entity (XXE) Zafiyetini İnceleme
     - Business Logic Zafiyetleri İnceleme
     - File Upload Zafiyetleri İnceleme
     - Let's hack : [Web Security 101 Serisi - M.Dursun İnce](https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT) | [XSS - PortSwigger Academy](https://portswigger.net/web-security/cross-site-scripting) | [XXE - PortSwigger Academy](https://portswigger.net/web-security/xxe) | [Business Logic - PortSwigger Academy](https://portswigger.net/web-security/logic-flaws)
