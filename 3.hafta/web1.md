@@ -103,29 +103,4 @@ IDOR'u kısaca özetlemek gerekirse bir tür **erişim güvenlik kontrolü** üz
 
 ![ss](ss/idor.jpg)
 
-## Sensitive Data Exposure Zafiyeti
-
-![ss](ss/breach.jpg)
-
-Web uygulamaları günden güne geliştikçe saldırganların atak yüzeyleri de bir o kadar genişlemektedir. 
-
-Bu durum bir web uygulamasına bir çok yönden saldırılabilmesi anlamına gelmektedir. Yine modern dünya web uygulamalarında sıklıkla görülen bir diğer zafiyet ise "hassas veri ifşası" zafiyetidir. 
-
-Bu zafiyette saldırganlar çeşitli "fuzzing" işlemleri ve yoğun araştırmalar sonucunda web uygulaması için hassas sayılabilecek ve korunması gereken birtakım bilgilere erişebilirler.
-
-Bu bilgiler uygulama hakkında, sunucu hakkında veya kullanıcılar hakkında olabilmektedir.
-
-### Fuzzing Nedir ?
-
-![ss](ss/fuzzing.jpg)
-
-Fuzzing hem penetrasyon testlerinde pentesterların hem de saldırganların hedefleri hakkında daha detaylı bilgilere erişebilmek için sıklıkla kullandığı bir araştırma yöntemidir.
-
-Directory fuzzing, DNS Fuzzing, sub-domain fuzzing, virtual hosts fuzzing gibi çeşitli türleri bulunmaktadır. Biz bu kurs boyunca önce directory fuzzing'i, ilerleyen haftalarda ise sub-domain fuzzingi inceleyip uygulayacağız.
-
-#### Directory Fuzzing Nedir ?
-
-Directory fuzzing, bir web uygulaması üzerinde barınan dosyaları keşfetmek için yürütülen çalışmalardır. Bu çalışmalar neticesinde hassas dosyalara ulaşılabilir, önemli endpointler tespit edilebir.
-
-Bir web penetrasyon testi için olmazsa olmaz çalışmalardan birisidir fakat modern web uygulamalarında WAF(Web Application Firewall) sıklıkla kullanıldığı için belirli bir zaman aralığı belirlenmeden  yapılan saldırılar neticesi kalacak ve hatta saldırıyı yapan IP kolaylıkla tespit edilip banlanabilecektir.
 
