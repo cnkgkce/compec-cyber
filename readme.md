@@ -50,3 +50,7 @@
     - Business Logic Zafiyetleri İnceleme
     - File Upload Zafiyetleri İnceleme
     - Let's hack : [XSS - PortSwigger Academy](https://portswigger.net/web-security/cross-site-scripting) | [Business Logic - PortSwigger Academy](https://portswigger.net/web-security/logic-flaws)
+    
+    
+    
+### Tüm derslerin linkine buradan ulaşabilirsiniz --> https://drive.google.com/drive/folders/19bUxwuqXOpC8inMGauOj3Zhb6sZw0swf
